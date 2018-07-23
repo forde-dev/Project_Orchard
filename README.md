@@ -5,14 +5,14 @@ I was developing, I am planning on building a simular gaming using the Open Sorc
 
 # What this game already has
 
-> theres multiple classes with diffrent abilitys
-> charactors have movement
-> fully working combat system
-> enemys and bosses
-> autosave
-> pause menu 
-> start menu wehre you can chose to continue for last save or create new game
-> wall climbing, jumping
+* theres multiple classes with diffrent abilitys
+* charactors have movement
+* fully working combat system
+* enemys and bosses
+* autosave
+* pause menu 
+* start menu wehre you can chose to continue for last save or create new game
+* wall climbing, jumping
 
 
 # Things that were in development
