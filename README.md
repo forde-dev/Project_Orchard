@@ -17,15 +17,15 @@ I was developing, I am planning on building a simular gaming using the Open Sorc
 
 # Things that were in development
 
-> options menu
-> multiple saves
-> Good npc
-> doors
+* options menu
+* multiple saves
+* Good npc
+* doors
 
 # things that haddent been started
 
-> crafting menu
-> shop system
-> weapon spwaning
-> block braking
-> armor
+* crafting menu
+* shop system
+* weapon spwaning
+* block braking
+* armor
